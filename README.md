@@ -1,0 +1,2 @@
+# jsp11exceptionchecked
+he exception is normally an object that is thrown at runtime. Exception Handling is the process to handle the runtime errors. There may occur exception any time in your web application. So handling exceptions is a safer side for the web developer. In JSP, there are two ways to perform exception handling:  By errorPage and isErrorPage attributes of page directive By &lt;error-page> element in web.xml file
